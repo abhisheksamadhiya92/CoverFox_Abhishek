@@ -56,7 +56,7 @@ String Timestamp=new SimpleDateFormat("dd-MM-yyyy-HH-mm-ss").format(new Date());
 }
 	public static String readDataFromProperty(String key) throws IOException {
 	Properties properties=new Properties();
-	FileInputStream myfile=new FileInputStream("C:\\Users\\abhis\\eclipse-workspace\\CoverFoxBBD\\src\\main\\resources\\config\\config.properties");
+	FileInputStream myfile=new FileInputStream("E:\\coverFox project Abhishek\\CoverFox_Abhishek\\src\\main\\resources\\config\\config.properties");
 	properties.load(myfile);
 	String data = properties.getProperty(key);
 	System.out.println("reading data from properties" + data);

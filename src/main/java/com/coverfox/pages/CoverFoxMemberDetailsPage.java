@@ -7,8 +7,6 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.coverfox.Util.Utility;
 
-import commonMethhods.CommonMethod;
-
 public class CoverFoxMemberDetailsPage {
 	
 	@FindBy(id ="Age-You") private WebElement ageDropDown;

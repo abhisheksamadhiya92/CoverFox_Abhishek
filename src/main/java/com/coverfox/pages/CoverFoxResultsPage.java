@@ -4,6 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 
 public class CoverFoxResultsPage {
 
@@ -20,6 +21,10 @@ public class CoverFoxResultsPage {
 	System.out.println("fetching matching result");
 	 String[] temp = result.split(" ");
 	 String finalResult= temp[0];
+	 String ActualResult= finalResult;
+	 String expectedResult= ActualResult;
 	return finalResult;
 	}
+
+	
 }

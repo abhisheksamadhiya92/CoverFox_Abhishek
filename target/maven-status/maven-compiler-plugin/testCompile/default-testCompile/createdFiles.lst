@@ -1,0 +1,5 @@
+assertStudy\NewTest.class
+stepDefinitions\CoverfoxCarBikeHealthInsurance.class
+runnerFile\HealthInsuranceRunner.class
+hooks\Hooks.class
+stepDefinitions\HealthInsurance.class
