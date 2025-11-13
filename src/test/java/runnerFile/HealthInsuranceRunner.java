@@ -9,7 +9,7 @@ import io.cucumber.testng.CucumberOptions;
 				//"C:\\Users\\abhis\\eclipse-workspace\\CoverFoxBBD\\src\\test\\resources\\Featurefile\\MultipleScenario.feature"
 				//"C:\\Users\\abhis\\eclipse-workspace\\CoverFoxBBD\\src\\test\\resources\\Featurefile\\multipledata.feature"
 				
-				"C:\\Users\\abhis\\eclipse-workspace\\CoverFoxBBD\\src\\test\\resources\\Featurefile\\CoverFoxHealthInsurance.feature"
+				"E:\\coverFox project Abhishek\\CoverFox_Abhishek\\src\\test\\resources\\Featurefile\\CoverFoxHealthInsurance.feature"
 		}
 		
 		
