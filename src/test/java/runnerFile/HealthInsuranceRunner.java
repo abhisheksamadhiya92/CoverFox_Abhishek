@@ -5,10 +5,7 @@ import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
 		
-		features = {//"C:\\Users\\abhis\\eclipse-workspace\\CoverFoxBBD\\src\\test\\resources\\Featurefile\\CoverFoxHealthInsurance.feature" 
-				//"C:\\Users\\abhis\\eclipse-workspace\\CoverFoxBBD\\src\\test\\resources\\Featurefile\\MultipleScenario.feature"
-				//"C:\\Users\\abhis\\eclipse-workspace\\CoverFoxBBD\\src\\test\\resources\\Featurefile\\multipledata.feature"
-				
+		features = {
 				"C:\\Users\\abhis\\eclipse-workspace\\CoverFoxBBD\\src\\test\\resources\\Featurefile\\CoverFoxHealthInsurance.feature"
 		}
 		

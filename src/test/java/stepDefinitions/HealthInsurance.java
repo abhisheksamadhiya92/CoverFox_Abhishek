@@ -1,14 +1,14 @@
 package stepDefinitions;
 
-import org.testng.Assert;
+
 
 import com.coverfox.DriverConfig.DriverFactory;
+import com.coverfox.pages.CoverFoxAddressDetailsPage;
+import com.coverfox.pages.CoverFoxHealthPlans;
+import com.coverfox.pages.CoverFoxHomePage;
+import com.coverfox.pages.CoverFoxMemberDetailsPage;
+import com.coverfox.pages.CoverFoxResultsPage;
 
-import coverFoxPom_test.CoverFoxAddressDetailsPage;
-import coverFoxPom_test.CoverFoxHealthPlans;
-import coverFoxPom_test.CoverFoxHomePage;
-import coverFoxPom_test.CoverFoxMemberDetailsPage;
-import coverFoxPom_test.CoverFoxResultsPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
